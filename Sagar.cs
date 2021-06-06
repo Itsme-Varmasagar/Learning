@@ -1,0 +1,1 @@
+godot.System.Console.WriteLine( "Hello");
